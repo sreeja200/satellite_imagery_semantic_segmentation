@@ -25,7 +25,7 @@ A U-Net architecture enhanced with **Spatial Pyramid Pooling (SPP)** is implemen
 
 | Training & Validation | Accuracy / Loss Curves |
 |:----------------------:|:----------------------:|
-| ![Image](https://github.com/user-attachments/assets/0d816aa5-8970-4a08-a1d8-fb2471d9e3be) | ![Validation Accuracy](results/validation_accuracy.png) |
+| ![Image](https://github.com/user-attachments/assets/0d816aa5-8970-4a08-a1d8-fb2471d9e3be) | ![Image](https://github.com/user-attachments/assets/a8f3ce01-f07f-4d51-bc3b-88e4f51c0cd0) |
 | **Best Epoch Performance** | ![Best Epoch](results/best_epoch.png) |
 
 ---
