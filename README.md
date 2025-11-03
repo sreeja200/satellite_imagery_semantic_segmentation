@@ -21,12 +21,12 @@ A U-Net architecture enhanced with **Spatial Pyramid Pooling (SPP)** is implemen
 
 ---
 
-## 📊 Training Progress  
+## 🧠 Training Progress
 
-| Training & Validation | Accuracy/Loss Curves |
-|------------------------|----------------------|
-| ![Training Accuracy & Loss](https://github.com/sreeja200/satellite_imagery_semantic_segmentation/blob/main/results/training/training_loss_accuracy.png) | ![Validation Accuracy](https://github.com/sreeja200/satellite_imagery_semantic_segmentation/blob/main/results/training/validation_accuracy.png) |
-| **Best Epoch** | ![Best Epoch Performance](https://github.com/sreeja200/satellite_imagery_semantic_segmentation/blob/main/results/training/best_epoch.png) |
+| Training & Validation | Accuracy / Loss Curves |
+|:----------------------:|:----------------------:|
+| ![Training Accuracy & Loss](results/training_accuracy.png) | ![Validation Accuracy](results/validation_accuracy.png) |
+| **Best Epoch Performance** | ![Best Epoch](results/best_epoch.png) |
 
 ---
 
